@@ -1,0 +1,14 @@
+The key fingerprint is:
+SHA256:mpLwG7EDmtNyeV/+JlOW5z8fIQLUH76J17YY/BA4wvk elisensoy@gmail.com
+The key's randomart image is:
++--[ED25519 256]--+
+|         ..      |
+|        .  . .   |
+|        ... + .  |
+|         +.o +   |
+|  o .   S oo+.=. |
+| + = + o  +EoB.o.|
+|= + O o .o o. *..|
+| + . * oo . ...o.|
+|    . . .=.  ..o.|
++----[SHA256]-----+
